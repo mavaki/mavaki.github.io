@@ -48,11 +48,13 @@ social_media:
   boardgamegeek: sparkymarky
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Arch Linux
+    web_url: https://mavaki.com/archlinux
+    image_url: https://www.pinclipart.com/picdir/middle/344-3444076_arch-linux-logo-png-clipart.png
 
-  - name: Done
+  - name: Board Games
+    web_url: https://mavaki.com/boardgames
+    image_url: https://cdn-icons-png.flaticon.com/128/5190/5190878.png
 
   - name: Sass
     web_url: https://github.com/topics/sass
