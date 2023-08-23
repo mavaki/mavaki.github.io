@@ -49,11 +49,11 @@ social_media:
 
 topics:
   - name: Arch Linux
-    web_url: www.mavaki.com/archlinux
+    web_url: archlinux
     image_url: https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/240px-Arch-linux-logo.png
 
   - name: Board Games
-    web_url: www.mavaki.com/boardgames
+    web_url: boardgames
     image_url: https://cdn-icons-png.flaticon.com/128/5190/5190878.png
 
   - name: MGB Project
