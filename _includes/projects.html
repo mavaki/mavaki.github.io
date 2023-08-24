@@ -1,5 +1,8 @@
-<h2 {% if site.style == 'dark' %}class="text-white"{% endif %}><span style="color: #999623">Projects</h2>
-<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">GitHub repositories that I've built.</p>
+<h2 {% if site.style == 'dark' %}class="text-white"{% endif %}><span style="color: #999623">Projects</span></h2>
+<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">During the school year, I work as a Teaching Assistant for <a href="https://challenges.williamtheisen.com" style="color: #3d8ecd">Programming Challenges</a>, an upper-level elective course that focuses on solving puzzle-like programming problems. I'm also a member of <a href="https://ndlug.org" style="color: #3d8ecd">Linux Users Group</a>, a club that promotes open source projects, including <a href="https://www.linux.org/pages/download" style="color: #3d8ecd">Linux</a>.</p>
+
+Here are some of the projects that I've worked on:
+
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
   {% if site.projects.sort_by == 'stars' %}
     {% assign sort_order = 'stargazers_count', 'last' %}
