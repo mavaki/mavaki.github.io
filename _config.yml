@@ -30,8 +30,10 @@ projects:
 
 social_media:
   # behance: your_username
+  boardgamegeek: sparkymarky
   # dribbble: your_username
   # facebook: your_username
+  goodreads: 119958903-mark-van-kirk
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
@@ -45,17 +47,15 @@ social_media:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-  boardgamegeek: sparkymarky
-  goodreads: 119958903-mark-van-kirk
 
 topics:
-  - name: Arch Linux
-    web_url: archlinux
-    image_url: https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/240px-Arch-linux-logo.png
+  #- name: Arch Linux
+  #  web_url: archlinux
+  #  image_url: https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/240px-Arch-linux-logo.png
 
-  - name: Board Games
-    web_url: boardgames
-    image_url: https://cdn-icons-png.flaticon.com/128/5190/5190878.png
+  #- name: Board Games
+  #  web_url: boardgames
+  #  image_url: https://cdn-icons-png.flaticon.com/128/5190/5190878.png
 
   - name: MGB Project
     web_url: mgbproject
