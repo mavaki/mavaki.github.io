@@ -118,6 +118,9 @@
 {% if site.zotero_username %}
   <a href="https://www.zotero.org/{{ site.zotero_username }}" title="Zotero"><i class="ai ai-zotero"></i></a>
 {% endif %}
+{% if site.bgg_username %}
+  <a href="https://boardgamegeek.com/{{ site.bgg_username }}" title="BoardGameGeek"><i class="fa-brands fa-boardgamegeek"></i></a>
+{% endif %}
 {% if site.rss_icon %}
   <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
 {% endif %}
