@@ -541,16 +541,6 @@
             },
           },
         {%- endif -%}
-        {%- if site.bgg_username -%}
-          {
-            id: 'socials-bgg',
-            title: 'BoardGameGeek',
-            section: 'Socials',
-            handler: () => {
-              window.open("https://boardgamegeek.com/{{ site.bgg_username }}", "_blank");
-            },
-          },
-        {%- endif -%}
         {%- if site.rss_icon -%}
           {
             id: 'socials-rss',
