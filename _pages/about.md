@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <q>When playing a game, the goal is to win, but it is the goal that is important, not the winning</q> - Reiner Knizia
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Notre Dame, IN 46556</p>
+    <p></p>
+    <p></p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I'm Mark Van Kirk, a junior at the [University of Notre Dame](https://www.nd.edu). I currently reside in the smartest, strongest, and humblest dorm on campus, [Dillon Hall](https://www.residentiallife.nd.edu/undergraduate/halls/dillon-hall), while pursuing a major in [Computer Science](https://www.cse.nd.edu) and a minor in [Theology](https://www.theology.nd.edu).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+This past summer, I stayed in South Bend to conduct research on in-memory architectures for recommendation systems and transformer networks. During the weekends, I had the chance to visit [Indiana Dunes National Park](https://www.nps.gov/indu/index.htm), go on the [Architecture River Tour]("https://shorelinesightseeing.com/architecture-river-tour" in Chicago, and play countless board games at [Griffon Games and Bookstore](https://www.griffon-bookstore.com). I wrapped up the summer with a two-week adventure in [Glacier National Park](https://www.nps.gov/glac/index.htm) and [Banff National Park](https://parks.canada.ca/pn-np/ab/banff) with my dad.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As you might have noticed, I really enjoy spending time in the outdoors and seeing the great things that nature has to offer. I particularly enjoy fly fishing, especially when I manage to catch [trout species](https://en.wikipedia.org/wiki/Trout#Species) in their native waters! When I'm not in the wilderness, I try to stay active through walking, swimming, and rock climbing. You're also likely to find me reading a [good book](https://www.goodreads.com/book/show/3228917-outliers) in a cozy spot...
