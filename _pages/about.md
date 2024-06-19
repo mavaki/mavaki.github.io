@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <q>When playing a game, the goal is to win, but it is the goal that is important, not the winning</q> - Reiner Knizia
-
+subtitle: <q>When playing a game, the goal is to win, <br>&emsp;&emsp;but it is the goal that is important, not the winning.</q><br>&emsp;&emsp;&emsp;&emsp;- <i>[Reiner Knizia](https://www.knizia.de)</i></p>
 profile:
   align: right
   image: prof_pic.jpg
