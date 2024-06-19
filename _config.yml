@@ -38,7 +38,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -127,7 +127,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: slow discovery # blog_name will be displayed in your blog page
-blog_description: my path to living better
+blog_description: learning and sharing
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
