@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <q>When playing a game, the goal is to win, <br>&emsp;&emsp;but it is the goal that is important, not the winning.</q><br>&emsp;&emsp;&emsp;&emsp;- <i><a href="https://www.knizia.de" >Reiner Knizia</a></i></p>
+subtitle: <q>When playing a game, the goal is to win, <br>&emsp;&emsp;but it is the goal that is important, not the winning.</q><br>&emsp;&emsp;&emsp;&emsp;- <i><a href="https://www.knizia.de" >Reiner Knizia</a></i><br></p>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>251 Dillon Hall</p>
     <p>Notre Dame, IN 46556</p>
-    <p></p>
-    <p></p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
