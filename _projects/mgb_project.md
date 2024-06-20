@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1964 mgb
+title: 1964 MGB
 description: classic car rebuild
 img: assets/img/12.jpg
 importance: 1
