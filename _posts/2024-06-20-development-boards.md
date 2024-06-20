@@ -13,8 +13,26 @@ related_posts: false
 
 Borderless Electronics -- Arduino Leonardo -- /dev/ttyACM0
 
-[Keyestudio ESP32 Plus Development Board](https://wiki.keyestudio.com/KS5016_Keyestudio_ESP32_PLUS_Development_Board) -- ESP32-WROOM-DA Module -- /dev/ttyUSB0 -- https://dl.espressif.com/dl/package_esp32_index.json
-
-[Adafruit Feather HUZZAH with ESP8266](https://www.adafruit.com/product/2821) -- Adafruit Feather HUZZAH ESP8266 -- /dev/ttyUSB0 -- http://arduino.esp8266.com/stable/package_esp8266com_index.json
-
-[Seeed Studio XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) -- XIAO_ESP32C3 -- /dev/ttyACM0 -- https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
+<table style="width:100%">
+  <tr>
+    <th>Board Name</th>
+    <th>Manufacturer Page</th>
+    <th>Arduino URL</th>
+    <th>Selected Board</th>
+    <th>Selected Port</th>
+  </tr>
+  <tr>
+    <td>Keyestudio ESP32 PLUS Development Board</td>
+    <td>https://www.keyestudio.com/products/keyestudio-esp32-plus-development-board-woroom-32-module-wifibluetooth-compatible-with-arduino</td>
+    <td>https://dl.espressif.com/dl/package_esp32_index.json</td>
+    <td>ESP32-WROOM-DA Module</td>
+    <td>/dev/ttyUSB0</td>
+  </tr>
+  <tr>
+    <td>Adafruit Feather HUZZAH with ESP8266</td>
+    <td>https://www.adafruit.com/product/2821</td>
+    <td>http://arduino.esp8266.com/stable/package_esp8266com_index.json</td>
+    <td>Adafruit Feather HUZZAH ESP8266</td>
+    <td>/dev/ttyUSB0</td>
+  </tr>
+</table>
