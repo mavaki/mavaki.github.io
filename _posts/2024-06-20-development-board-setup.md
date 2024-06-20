@@ -17,4 +17,4 @@ Borderless Electronics -- Arduino Leonardo -- /dev/ttyACM0
 
 [Adafruit Feather HUZZAH with ESP8266](https://www.adafruit.com/product/2821) -- Adafruit Feather HUZZAH ESP8266 -- /dev/ttyUSB0 -- http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-[Seeed Studio XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) -- XIAO_ESP32C3 -- /dev/ttyACM0 -- https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
+[Seeed Studio XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) -- XIAO_ESP32C3 -- /dev/ttyACM0 -- https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json and that's all.

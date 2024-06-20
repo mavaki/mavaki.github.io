@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mavaki
 
 github_repos:
+  - mavaki/mavaki.github.io
+  - linux-surface/linux-surface
+  - rhiever/Data-Analysis-and-Machine-Learning-Projects
   - alshedivat/al-folio
-  - twbs/bootstrap
   - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
