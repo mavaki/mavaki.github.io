@@ -1,6 +1,6 @@
 ---
 layout: post
-title: third party development boards in Arduino
+title: third-party development boards in Arduino
 date: 2024-06-20 06:45:00-0000
 description: a hassel-free guide for setting up Arduino alternatives
 tags: linux, research
