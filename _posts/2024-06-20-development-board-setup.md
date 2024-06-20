@@ -1,11 +1,15 @@
 ---
 layout: post
-title: programming esp23 boards with arduino ide
-date: 2024-06-20 06:40:00-0400
-description: my first post
+title: third party development boards in Arduino IDE
+date: 2024-06-20 06:40:00-0000
+description: detailed tutorial on setting up Arduino alternatives in Arduino IDE
 tags: linux, research
 categories: arduino
+giscus-comments: true
+related_posts: false
 ---
+
+Errors like `A fatal error occurred: Failed to connect to ESP32: No serial data received.`
 
 Borderless Electronics -- Arduino Leonardo -- /dev/ttyACM0
 
