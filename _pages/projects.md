@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: where failure is my friend
+description: where failure is my cheerleader
 nav: true
 nav_order: 3
 display_categories: [fun]
