@@ -31,7 +31,9 @@ related_posts: false
 </style>
 
 Getting started with Arduino IDE as a newbie is relatively straightforward, but it can be difficult when you're dealing with third-party boards that don't work out of the box. I managed to get most of my devices working, but an `Adafruit Bluefruit` kept throwing this error at me:
+
 > `A fatal error occurred: Failed to connect to ESP32: No serial data received.`
+
 Since there weren't many great resources on the topic, I decided to write this blog post about it once I resolved it. I'm going to explain how to set up some common thiry-party boards in Arduino IDE using Linux, but the same process should apply for similar boards across different distributions.
 
 <br>
