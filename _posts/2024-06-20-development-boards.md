@@ -23,9 +23,8 @@ related_posts: false
     padding: 8px;
 }
 
-#boards tr:nth-child(even){background-color: #f2f2f2;}
-
-#boards tr:hover {background-color: #ddd;}
+/* #boards tr:nth-child(even){background-color: #f2f2f2;} */
+/* #boards tr:hover {background-color: #ddd;} */
 
 #boards th {
   padding-top: 12px;
