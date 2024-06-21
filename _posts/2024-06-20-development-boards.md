@@ -62,6 +62,7 @@ Getting start with Arduino IDE as a newbie is relatively straightforward, but it
   </tr>
 </table>
 
+
 For each of the boards I'm using, I had to install...
 
 `A fatal error occurred: Failed to connect to ESP32: No serial data received.`
