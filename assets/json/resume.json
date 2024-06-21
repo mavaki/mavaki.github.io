@@ -1,18 +1,13 @@
 {
   "basics": {
     "name": "Mark Van Kirk",
-    "label": "Computer Scientist",
+    "major": "Computer Scientist",
     "image": "",
     "email": "mvankir2@nd.edu",
-    "url": "https://www.mavaki.com",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "city": "Dallas",
-      "countryCode": "US",
-      "region": "Texas"
+    "summary": ""
     },
     "profiles": [
-      {
+      { 
         "network": "GitHub",
         "username": "mavaki",
         "url": "https://github.com/mavaki"
@@ -22,12 +17,13 @@
   "work": [
     {
       "name": "University College Dublin",
+      "location": "Dublin, Ireland",
       "position": "Summer Research Assistant",
       "url": "https://forensicsandsecurity.com/",
       "startDate": "2024-05-28",
       "endDate": "2024-08-02",
       "summary": "Investigated the impact of using two frequency channels with various antennas to perform electromagnetic side-channel attacks on development boards running AES encryption",
-      "highlights": ["Arduino Leonardo", "Nuand BladeRF"]
+      "highlights": ["Nuand BladeRF", "Arduino Leonardo"]
     }
   ],
   "volunteer": [
@@ -38,8 +34,8 @@
       "url": "https://www.seedsofhope.pe/index.html",
       "startDate": "2024-04-18",
       "endDate": "2024-05-22",
-      "summary": "Taught math to local children after school and introduced them to my favorite board games",
-      "highlights": ["El Señor de la Soledad", "Santa Cruz Trek"]
+      "summary": "Taught math to local schoolchildren in the morning and afternoon and introduced them to my favorite board games",
+      "highlights": ["Santa Cruz Trek", "El Señor de la Soledad"]
     }
   ],
   "education": [
@@ -48,9 +44,24 @@
       "location": "Notre Dame, IN",
       "url": "https://www.nd.edu",
       "area": "Computer Science",
-      "studyType": "Undergraduate",
+      "studyType": "Bachelor of Science",
       "startDate": "2021-08-23",
-      "endDate": "2025-05-17"
+      "endDate": "2025-05-17",
+      "highlights": ["Dillon Hall Resident Assistant", "ND Linux Users' Group"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Linux",
+      "icon": "",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
     }
   ],
   "languages": [

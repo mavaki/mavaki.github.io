@@ -8,9 +8,9 @@ middle_name:
 last_name: Van Kirk
 email: mvankir2@nd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  My simple, happy website.
 footer_text:
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: portfolio-website, linux # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: uconsole.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -18,7 +18,7 @@ url: https://mavaki.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+back_to_top: false # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -45,7 +45,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 
@@ -82,7 +82,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: mark-van-kirk-95408121b # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -144,7 +144,7 @@ related_blog_posts:
 giscus:
   repo: mavaki/mavaki.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOMJ4bUA # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Announcements # name of the category under which discussions will be created
+  category: General # name of the category under which discussions will be created
   category_id: DIC_kwDOMJ4bUM4CgJ3C # leave empty or specify your category_id (see https://giscus.app/)
   mapping: pathname # identify discussions by post title
   strict: 0 # use strict identification mode
@@ -295,8 +295,8 @@ display_categories: ["arduino"] # these categories will be displayed on the fron
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Van Kirk]
+  first_name: [Mark]
 
   style: apa
   locale: en
@@ -480,7 +480,7 @@ third_party_libraries:
     integrity:
       js: "sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc="
     url:
-      js: https://cdn.jsdelivr.net/npm/imagesloaded@{{version}}/imagesloaded.pkgd.min.js
+      js: "https://cdn.jsdelivr.net/npm/imagesloaded@{{version}}/imagesloaded.pkgd.min.js"
     version: "5.0.0"
   img-comparison-slider:
     integrity:

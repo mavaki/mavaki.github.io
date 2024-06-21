@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 1964 MGB
-description: classic car rebuild
+description: my classic car rebuild
 img: assets/img/mgb_project.jpg
 importance: 1
 category: fun
