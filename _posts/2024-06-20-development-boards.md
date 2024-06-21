@@ -13,21 +13,21 @@ related_posts: false
 
 <style>
 
-table#boards {
+#boards {
   border-collapse: collapse;
   width: 100%;
 }
-#customers td, #customers th {
+#boards td, #boards th {
     border: 1px;
     text-align: left;
     padding: 8px;
 }
 
-#customers tr:nth-child(even){background-color: #f2f2f2;}
+#boards tr:nth-child(even){background-color: #f2f2f2;}
 
-#customers tr:hover {background-color: #ddd;}
+#boards tr:hover {background-color: #ddd;}
 
-#customers th {
+#boards th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
