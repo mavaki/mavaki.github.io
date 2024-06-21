@@ -53,7 +53,6 @@ Getting started with Arduino IDE as a newbie is relatively straightforward, but 
     <td>http://arduino.esp8266.com/stable/package_esp8266com_index.json</td>
   </tr>
   <tr>
-  <tr>
     <td><a href="https://www.digikey.ie/en/products/detail/adafruit-industries-llc/3406/7034992">Adafruit Feather nRF52 Bluefruit LE</a></td>
     <td>Adafruit nRF52 by Adafruit</td>
     <td>https://adafruit.github.io/arduino-board-index/package_adafruit_index.json</td>
@@ -92,7 +91,7 @@ If your working with an original nRF52832 device like the `Adafruit Feather nRF5
     <td>/dev/ttyUSB0</td>
   </tr>
 </table>
-<p><br></p>
+<p></p>
 
 This table lists the information that you will need to select your board in Arduino IDE, and I've also included the port that I used (although yours might be different). Open `Tools` and hover over the `Board` option, where you will see the different packages that you have installed. Then refer to the `Group` and `Entry` column to select your board. If your device is plugged in, the port should have been selected automatically, but you can also select it manually under `Tools` > `Port`.
 
