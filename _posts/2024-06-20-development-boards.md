@@ -30,8 +30,11 @@ related_posts: false
 }
 </style>
 
-Getting started with Arduino IDE as a newbie is relatively straightforward, but it can be difficult when you're dealing with third-party boards that don't work out of the box. After finally finding the solution to my issue--`A fatal error occurred: Failed to connect to ESP32: No serial data received.`--I decided to write this blog post about it. I'm going to explain how to set up some common thiry-party boards in Arduino IDE using Arch Linux, but the same process should apply for similar boards across different distributions.
+Getting started with Arduino IDE as a newbie is relatively straightforward, but it can be difficult when you're dealing with third-party boards that don't work out of the box. I managed to get most of my devices working, but an `Adafruit Bluefruit` kept throwing this error at me:
+> `A fatal error occurred: Failed to connect to ESP32: No serial data received.`
+Since there weren't many great resources on the topic, I decided to write this blog post about it once I resolved it. I'm going to explain how to set up some common thiry-party boards in Arduino IDE using Linux, but the same process should apply for similar boards across different distributions.
 
+<br>
 <table id="boards">
   <tr>
     <th>Board</th>
@@ -43,6 +46,7 @@ Getting started with Arduino IDE as a newbie is relatively straightforward, but 
     <td>esp32 by Espressif Systems</td>
     <td>https://dl.espressif.com/dl/package_esp32_index.json</td>
   </tr>
+  <tr>
     <td><a href="https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html">Seeed Studio XIAO ESP32C3</a></td>
     <td>esp32 by Espressif Systems</td>
     <td>https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json</td>
@@ -58,12 +62,13 @@ Getting started with Arduino IDE as a newbie is relatively straightforward, but 
     <td>https://adafruit.github.io/arduino-board-index/package_adafruit_index.json</td>
   </tr>
 </table>
-<p><br></p>
+<br>
 
 In the `Board` column you will find the name of each board hyperlinked to the manufacturer's site. (Note that this is not the same URL that is included in the `URL` column, which I will address in a moment.) Once you have identified your board, you will need to open Arduino IDE and navigate to the `Boards Manager` (`Tools` > `Board` > `Boards Manager`). Then you can search for the appropriate package in the `Package` column for your board. Click `Install` and wait until the installation is complete. Finally, copy the corresponding URL from the `URL` column and open the `Preferences` menu (`File` > `Preferences`), where you can paste the URL under `Additional boards manager URLs`. Now you should be all set to select your device and begin programming, which I explain in detail below.
 
 If your working with an original nRF52832 device like the `Adafruit Feather nRF52 Bluefruit LE`, you will likely need to update the bootloader. If you're using <i>Linux</i>, you will first need to install the `adafruit-nrfutil` package. The <a href="https://aur.archlinux.org/packages/python-adafruit-nrfutil">python-adafruit-nrfutil</a> package on the AUR worked fine for me, but there are also instructions on <a href="https://aur.archlinux.org/packages/python-adafruit-nrfutil">Adafruit</a>. I was then able to select `Tools` > `Burn Bootloader`, which got my `Adafruit nRF52` running flawlessly. There are more details about this process on <a href="https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide/updating-the-bootloader">Adafruit</a> as well.
 
+<br>
 <table id="boards">
   <tr>
     <th>Group</th>
@@ -91,7 +96,7 @@ If your working with an original nRF52832 device like the `Adafruit Feather nRF5
     <td>/dev/ttyUSB0</td>
   </tr>
 </table>
-<p></p>
+<br>
 
 This table lists the information that you will need to select your board in Arduino IDE, and I've also included the port that I used (although yours might be different). Open `Tools` and hover over the `Board` option, where you will see the different packages that you have installed. Then refer to the `Group` and `Entry` column to select your board. If your device is plugged in, the port should have been selected automatically, but you can also select it manually under `Tools` > `Port`.
 
