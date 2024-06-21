@@ -6,7 +6,7 @@
     "email": "mvankir2@nd.edu",
     "summary": "",
     "profiles": [
-      { 
+      {
         "network": "GitHub",
         "username": "mavaki",
         "url": "https://github.com/mavaki"
@@ -46,7 +46,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2021-08-23",
       "endDate": "2025-05-17",
-      "highlights": ["Dillon Hall Resident Assistant", "ND Linux Users' Group"]
+      "courses": ["ND Linux Users' Group", "Theory of Computing", "Database Concepts"]
     }
   ],
   "interests": [
@@ -54,12 +54,9 @@
       "name": "Linux",
       "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "daemons",
+        "crontabs",
+        "gnome"
       ]
     }
   ],
