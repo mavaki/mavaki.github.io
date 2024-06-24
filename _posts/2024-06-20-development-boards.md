@@ -1,7 +1,7 @@
 ---
 layout: post
 title: third-party development boards in Arduino IDE
-date: 2024-06-21 09:25:00-0000
+date: 2024-06-21 21:25:00-0000
 description: a hassel-free guide for setting up Arduino alternatives
 tags: linux, research
 categories: arduino
@@ -66,7 +66,7 @@ Since it was challenging to find useful resources, I decided to write this blog 
 </table>
 <br>
 
-In the `Board` column you will find the name of each board hyperlinked to the manufacturer's site. (Note that this is not the same URL that is included in the `URL` column, which I will address in a moment.) Once you have identified your board, you will need to open Arduino IDE and navigate to the `Boards Manager` (`Tools` > `Board` > `Boards Manager`). Then you can search for the appropriate package (listed in the `Package` column) for your board. Click `Install` and wait until the installation is complete. Finally, copy the corresponding URL from the `URL` column and open the `Preferences` menu (`File` > `Preferences`), where you can paste the URL under `Additional boards manager URLs`. Now you should be all set to select your device and begin programming, which I describe below.
+In the `Board` column you will find the name of each board hyperlinked to the manufacturer's site. (Note that this is not the same URL that is included in the `URL` column.) Once you have identified your board, you will need to open Arduino IDE and navigate to the `Boards Manager` (`Tools` > `Board` > `Boards Manager`). Then you can search for the appropriate package (listed in the `Package` column) for your board. Click `Install` and wait until the installation is complete. Finally, copy the corresponding URL from the `URL` column and open the `Preferences` menu (`File` > `Preferences`), where you can paste the URL under `Additional boards manager URLs`. (This is a platform index URL that allows users to install and update platforms that are not included in the official package list.) Now you should be all set to select your device and begin programming, which I describe below.
 
 If you're working with an original nRF52832 device like the `Adafruit Feather nRF52 Bluefruit LE`, you will likely need to update the bootloader. If you're using <i>Linux</i>, you will first need to install the `adafruit-nrfutil` package. The <a href="https://aur.archlinux.org/packages/python-adafruit-nrfutil">python-adafruit-nrfutil</a> package on the AUR worked for me, but there are also instructions on <a href="https://aur.archlinux.org/packages/python-adafruit-nrfutil">Adafruit</a> for other distributions. I was then able to select `Tools` > `Burn Bootloader`, which flashed my `Adafruit nRF52` and got everything running smoothly. If you experience any issues, you can refer to <a href="https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide/updating-the-bootloader">Adafruit</a>.
 
