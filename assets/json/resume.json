@@ -15,16 +15,6 @@
   },
   "work": [
     {
-      "name": "University of Notre Dame",
-      "location": "Notre Dame, IN",
-      "position": "Teaching Assistant",
-      "url": "https://challenges.williamtheisen.com",
-      "startDate": "2024-08-22",
-      "endDate": "2024-12-15",
-      "summary": "Helped students to understand data structures and algorithms for Programming Challenges, an elective focused on developing practical programming skills to solve puzzle-type problems that often appear in programming contests",
-      "highlights": ["GitHub Classroom"]
-    },
-    {
       "name": "University College Dublin",
       "location": "Dublin, Ireland",
       "position": "Summer Research Assistant",
@@ -33,6 +23,16 @@
       "endDate": "2024-08-02",
       "summary": "Investigated the impact of using two frequency channels on a software-defined radio (Nuand bladeRF) to perform electromagnetic side-channel attacks on a development board (Adafruit Bluefruit Feather) running AES encryption",
       "highlights": ["Forensics & Security"]
+    },
+    {
+      "name": "University of Notre Dame",
+      "location": "Notre Dame, IN",
+      "position": "Teaching Assistant",
+      "url": "https://challenges.williamtheisen.com",
+      "startDate": "2024-08-22",
+      "endDate": "2024-12-15",
+      "summary": "Helped students to understand data structures and algorithms for Programming Challenges, an elective focused on developing practical programming skills to solve puzzle-type problems that often appear in programming contests",
+      "highlights": ["GitHub Classroom"]
     }
   ],
   "Volunteer": [
