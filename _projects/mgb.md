@@ -31,10 +31,10 @@ My dad had brought up the idea of rebuilding a vintage sports car before, but I 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mgb/mgb-trailer-01.jpg" title="U-Haul Trailer" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mgb/mgb-dashboard-01.jpg" title="Old Dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mgb/mgb-trunk.jpg" title="Old Trunk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
