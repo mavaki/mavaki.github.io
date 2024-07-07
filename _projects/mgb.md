@@ -28,7 +28,7 @@ Since before I can remember, I've loved the hands-on building experience. I star
 My dad had brought up the idea of rebuilding a vintage sports car before, but I thought the idea was just about as delusional as his promise of a flatscreen TV. So on July 1, 2018, when my dad asked me if I was interested in looking for any <a href="https://en.wikipedia.org/wiki/MG_MGB" style="color: #c63930">MGBs</a> for sale online, I was in awe. We quickly came across a few MGBs on eBay, but there was one that really caught our eye: a 1964 MGB that was essentially a <a href="https://en.wikipedia.org/wiki/Barn_find" style="color: #c63930">barn find</a>. The seller had bought it an auction a few years before with the intention of rebuilding it, but he ended up having too many other cars on his plate. With just a few hours remaining in the auction, my dad and I started bidding and soon&mdash;at 10:04 PM CST&mdash;found ourselves with the winning bid of $2,605.65. We picked up the car a month later in <a href="https://en.wikipedia.org/wiki/Yellville,_Arkansas" style="color: #c63930">Yellville, Arkansas</a> and drove it back to Dallas with a <a href="https://www.uhaul.com/Trailers/Auto-Transport-Rental/AT/" style="color: #c63930">U-Haul trailer</a>.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mgb/mgb-trailer-01.jpg" title="U-Haul Trailer" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">

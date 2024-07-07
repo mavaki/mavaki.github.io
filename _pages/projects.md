@@ -5,7 +5,7 @@ permalink: /projects/
 description: where failure is my inspiration
 nav: true
 nav_order: 3
-display_categories: [fun]
+display_categories: [engineering]
 horizontal: false
 ---
 
