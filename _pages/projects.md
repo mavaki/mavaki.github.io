@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: where failure inspires me
+description: where failure is my inspiration
 nav: true
 nav_order: 3
 display_categories: [fun]
