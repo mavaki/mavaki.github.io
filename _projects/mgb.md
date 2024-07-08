@@ -8,7 +8,12 @@ category: engineering
 related_publications: true
 ---
 
-Since before I can remember, I've loved the hands-on building experience. I started out with <a href="https://www.lego.com/en-us/product/police-station-60141" style="color: #c63930">lego sets</a> and toys (like boats) that I would craft out of wood. Then, on Christmas in 2013, Santa Claus gave me a gift that I could only dream of: Tamiya's <a href="https://www.tamiya.com/english/products/58354frog/index.htm" style="color: #c63930">The Frog</a>&mdash;a remote-controlled racing buggy that required a complete assembly. After I put it all together, I spent countless hours driving it on the road in front of my house, breaking <a href="https://www.hobbytown.com/futaba-s3003-standard-servo-fut01102164-1/p608310" style="color: #c63930">parts</a> (due to my limited driving experience) and learning to fix them so I could get my car back on the road. By the end of middle school, I had a couple other R/C cars in my garage: Tamiya's <a href="https://www.tamiya.com/english/products/58452sandscorcher/index.htm" style="color: #c63930">Sand Scorcher</a> and Team Losi Racing's <a href="https://www.tlracing.com/product/1-10-22-4.0-2wd-buggy-race-kit/TLR03013.html" style="color: #c63930">22-4</a>. My life could not have been much better... or so I thought.
+Since before I can remember, I've loved the hands-on building experience.
+I started out with <a href="https://estesrockets.com/products/big-daddy" style="color: #c63930">rocket kits</a> and projects I found on <a href="https://www.youtube.com/watch?v=WFyKgmnCF-8" style="color: #c63930">YouTube</a>.
+But my world was forever changed in 2013 when Santa Claus gifted me Tamiya's <a href="https://www.tamiya.com/english/products/58354frog/index.htm" style="color: #c63930">The Frog</a>&mdash;a remote-controlled racing buggy that required a complete assembly.
+After I put it all together, I spent countless hours driving it on the road in front of my house, breaking <a href="https://www.hobbytown.com/futaba-s3003-standard-servo-fut01102164-1/p608310" style="color: #c63930">parts</a> (due to my limited driving experience) and learning to fix them so I could get my car back on the road.
+By the end of middle school, I had a couple other R/C cars in my garage: Tamiya's <a href="https://www.tamiya.com/english/products/58452sandscorcher/index.htm" style="color: #c63930">Sand Scorcher</a> and Team Losi Racing's <a href="https://www.tlracing.com/product/1-10-22-4.0-2wd-buggy-race-kit/TLR03013.html" style="color: #c63930">22-4</a>.
+I didn't think life could get much better.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
