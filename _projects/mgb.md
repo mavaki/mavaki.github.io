@@ -73,6 +73,3 @@ Big Picture Below
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
-
-Two Big Pictures Below
-
