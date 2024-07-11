@@ -2,7 +2,7 @@
 layout: page
 title: 1964 MGB
 description: a classic car restoration
-img: assets/img/mgb/mgb-cover.jpg
+img: assets/img/mgb/project-cover.jpg
 importance: 1
 category: engineering
 related_publications: false
@@ -39,13 +39,13 @@ We picked up the car a month later in <a href="https://en.wikipedia.org/wiki/Yel
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mgb/mgb-trailer-01.jpg" title="U-Haul Trailer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mgb/trailer-01.jpg" title="old bonnet" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mgb/mgb-dashboard-01.jpg" title="Old Dashboard" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mgb/dashboard-01.jpg" title="old dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mgb/mgb-trunk.jpg" title="Old Trunk" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mgb/trunk-01.jpg" title="old trunk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -60,13 +60,13 @@ I started with each of the wire wheel rims, making sure to repaint them with the
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mgb/mgb-wheel-01.jpg" title="Old Rim" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mgb/wheel-01.jpg" title="old rim" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mgb/mgb-wheel-02.jpg" title="Sandblasted Rim" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mgb/wheel-02.jpg" title="sandblasted rim" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mgb/mgb-wheel-03.jpg" title="Painted Rim" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mgb/wheel-03.jpg" title="painted rim" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -81,6 +81,9 @@ Afterwards, I removed all the switches, gauges, and knobs from the dashboard so 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mgb/mgb-dashboard-02.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mgb/dashboard-02.jpg" title="old dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    stripped dashboard
 </div>
