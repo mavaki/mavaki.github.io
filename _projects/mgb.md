@@ -38,13 +38,13 @@ With just a few hours remaining in the auction, my dad and I started bidding and
 We picked up the car a month later in <a href="https://en.wikipedia.org/wiki/Yellville,_Arkansas" style="color: #c63930">Yellville, Arkansas</a> and drove it back to Dallas with a <a href="https://www.uhaul.com/Trailers/Auto-Transport-Rental/AT/" style="color: #c63930">U-Haul trailer</a>.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mgb/trailer-01.jpg" title="old bonnet" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mgb/dashboard-01.jpg" title="old dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mgb/trunk-01.jpg" title="old trunk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -86,4 +86,40 @@ Afterwards, I removed all the switches, gauges, and knobs from the dashboard so 
 </div>
 <div class="caption">
     stripped dashboard
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mgb/heater-01.jpg" title="old rim" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mgb/heater-02.jpg" title="painted rim" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mgb/exhaust-manifold-01.jpg" title="old manifold" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mgb/exhaust-manifold-02.jpg" title="coated manifold" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mgb/fan-01.jpg" title="old fan" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mgb/fan-02.jpg" title="painted rim" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mgb/stay-bar-01.jpg" title="old stay bar" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mgb/stay-bar-01.jpg" title="painted stay bar" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    cleaning parts
 </div>
